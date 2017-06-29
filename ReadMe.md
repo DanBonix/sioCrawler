@@ -25,7 +25,7 @@
 
 Site web permettant à un joueur de s'inscrire en ligne. le projet prévoit le principe suivant pour l'inscription en ligne.
 
-![acteurFluxInscription.PNG](https://github.com/DanBonix/sioCrawler/blob/master/acteurFluxInscription.PNG)
+[acteurFluxInscription.PNG](https://github.com/DanBonix/sioCrawler/blob/master/acteurFluxInscription.PNG)
 
 ## sio crawler le jeu ##
 
