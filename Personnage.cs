@@ -1,6 +1,11 @@
 classe Personnage
 {
-	void frapper(Personnage personnage, int force)
+	public void Frapper(Personnage personnage, int force)
+	{
+		
+	}
+	
+	public void Déplacer(Direction direction)
 	{
 		
 	}
