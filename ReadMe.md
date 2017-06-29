@@ -15,7 +15,7 @@
 2. Développement du jeu en lui même permettant l'exploration d'un labyrinthe
 3. La sauvegarde des personnages et du contexte du jeu
 
-|Développement         |Langages  |Techniques de programmation                          |
+|     Développement    | Langages |           Techniques de programmation               |
 |----------------------|:--------:|----------------------------------------------------:|
 |inscription en ligne  |PHP, Mysql|Développement web MVC avec Code Igniter              |
 |sio crawler le jeu    |C#        |Programmation objet, tests unitaires                 |
