@@ -16,7 +16,7 @@
 3. La sauvegarde des personnages et du contexte du jeu
 
 |Développement         |Langages  |Techniques de programmation                          |
-|----------------------|:--------:|:---------------------------------------------------:|
+|:--------------------:|:--------:|:---------------------------------------------------:|
 |Inscription en ligne  |PHP, Mysql|Développement web MVC avec Code Igniter              |
 |sio crawler le jeu    |C#        |Programmation objet, tests unitaires                 |
 |Sauvegarde du contexte|C#, Mysql |Programmation procédural procédures stockées en mysql|
