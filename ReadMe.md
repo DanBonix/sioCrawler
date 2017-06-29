@@ -15,17 +15,17 @@
 2. Développement du jeu en lui même permettant l'exploration d'un labyrinthe
 3. La sauvegarde des personnages et du contexte du jeu
 
-|     Développement    | Langages |           Techniques de programmation               |
-|----------------------|:--------:|----------------------------------------------------:|
-|inscription en ligne  |PHP, Mysql|Développement web MVC avec Code Igniter              |
+|Développement         |Langages  |Techniques de programmation                          |
+|----------------------|:--------:|:---------------------------------------------------:|
+|Inscription en ligne  |PHP, Mysql|Développement web MVC avec Code Igniter              |
 |sio crawler le jeu    |C#        |Programmation objet, tests unitaires                 |
-|sauvegarde du contexte|C#, Mysql |Programmation procédural procédures stockées en mysql|
+|Sauvegarde du contexte|C#, Mysql |Programmation procédural procédures stockées en mysql|
 
 ## L'inscription en ligne ##
 
 Site web permettant à un joueur de s'inscrire en ligne. le projet prévoit le principe suivant pour l'inscription en ligne.
 
-[acteurFluxInscription.PNG](https://github.com/DanBonix/sioCrawler/blob/master/acteurFluxInscription.PNG)
+![acteurFluxInscription.PNG](https://github.com/DanBonix/sioCrawler/blob/master/acteurFluxInscription.PNG)
 
 ## sio crawler le jeu ##
 
